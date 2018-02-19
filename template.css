@@ -6,6 +6,7 @@ body, html {
 .bgimg {
     background-image: url('/tcc.jpg');
     height: 100%;
+    background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
     position: relative;
