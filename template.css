@@ -7,7 +7,7 @@ body, html {
     background-image: url('/tcc.jpg');
     height: 100%;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     position: relative;
     color: black;
     font-family: "Courier New", Courier, monospace;
@@ -20,9 +20,4 @@ body, html {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-}
-
-hr {
-    margin: auto;
-    width: 40%;
 }
