@@ -1,1 +1,0 @@
-[TCC Dev Club Constitution & Bylaws](https://github.com/tcc-dev-club/projects/blob/master/TCC%20Dev%20Club%20-%20Constitution%20%26%20Bylaws.pdf)
