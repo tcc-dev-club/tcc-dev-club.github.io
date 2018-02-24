@@ -2,4 +2,4 @@
 See our [Wiki](https://github.com/tcc-dev-club/projects/wiki) for information and resources.<br>
 
 ## Active Project(s)
-[TensorFlow](https://github.com/tcc-dev-club/tensorflow)
+[TensorFlow](https://tcc-dev-club/github.io/tensorflow/)
